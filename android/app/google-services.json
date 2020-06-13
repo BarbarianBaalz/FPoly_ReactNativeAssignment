@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304777424999",
+    "firebase_url": "https://rnassignment-2329d.firebaseio.com",
+    "project_id": "rnassignment-2329d",
+    "storage_bucket": "rnassignment-2329d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304777424999:android:63918a7e6e4ad7870864c2",
+        "android_client_info": {
+          "package_name": "com.rnassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304777424999-d9snnrgr41hnh5ag6s58eo0p55n4sgs8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnassignment",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "304777424999-c69fvpmi6prglcfcdfsnisiklhtruqv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Q2XvwBiDcG3OIT0_z6lE1dT1hRyAnaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304777424999-c69fvpmi6prglcfcdfsnisiklhtruqv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
